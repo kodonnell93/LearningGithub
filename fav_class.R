@@ -1,1 +1,1 @@
-#my favorite class this year was stats
+#my favorite class this year was Geography
