@@ -11,13 +11,14 @@ gitcreds::gitcreds_set() # this will prompt you to enter your token in the conso
 # Heili's guide: https://github.com/hlowman/TidyTuesday/blob/master/resources/Git_GitHub_Guide.pdf
 
 # I have Git downloaded on the desktop locally, and github is the web browser cloud
-# Create a new repository in github, 
+# Create a new repository in github, create a git ignore and a readme. Once a repository is created, click the green code button in the top right and find the HTTPS URL 
 # Once we have everything downloaded, we create a new R project and select the option "Version Control" - this adds the "Git" tab, make sure this is there before continuing with Github 
-
+# The version control uses the HTTPS URL from github. Paste the URL into the R prompt, and select the folder to save the project (I have created a github folder in my Duke OneDrive)
 
 
 # Lets begin:
 # My favorite food is burgers
+# My favorite place to vacation is Pemiquid Maine
 
 
 
