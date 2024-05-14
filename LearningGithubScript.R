@@ -18,7 +18,7 @@ gitcreds::gitcreds_set() # this will prompt you to enter your token in the conso
 
 # Lets begin:
 # My favorite food is burgers
-# My favorite place to vacation is Pemiquid Maine
+# My favorite place to vacation is Pemaquid Maine
 
 
 
