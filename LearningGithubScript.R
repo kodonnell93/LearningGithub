@@ -20,5 +20,11 @@ gitcreds::gitcreds_set() # this will prompt you to enter your token in the conso
 # My favorite food is burgers
 # My favorite place to vacation is Pemaquid Maine
 
+# Colaborating on a repository project do's and don'ts:
+#When working on a project, pull at the start and commit at the end of the "day"
+#commit after making a big change! and always make a commit comment
+#try setting up a collaboration plan before starting a github project with someone!
+
+
 
 
